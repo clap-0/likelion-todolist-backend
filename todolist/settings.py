@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-u*xsbs20$m%xi80q2+rerxwyyd*as($y0@xlcopery+r$e$@7_
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    ".us-east-2.compute.amazonaws.com"
+    ".us-east-2.compute.amazonaws.com",
+    ".likelion-ssu-todo.shop"
 ]
 
 
